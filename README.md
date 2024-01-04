@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A passionate upcoming mobile and web developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesabuga&label=Profile%20views&color=0e75b6&style=flat" alt="charlesabuga" /> </p>
-
-<a href="https://twitter.com/bilal_abuga" target="blank">
+<p><a href="https://twitter.com/bilal_abuga" target="blank">
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fbilal_abuga" />
-  </a>
-</a> </p>
+  </a> Follow me please</p>
 
 - 💬 Ask me about **react, flutter, python**
 
