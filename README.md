@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/bilal_abuga" target="blank"><img align="center" src="![X_logo_2023_(white)](https://github.com/CharlesAbuga/CharlesAbuga/assets/109561068/a15e4bf2-b389-4e3c-95ba-cf0d76862979)" alt="bilal_abuga" height="30" width="40" /></a>
+<a href="https://x.com/bilal_abuga" target="blank"><img align="center" src="https://github.com/CharlesAbuga/CharlesAbuga/assets/109561068/a15e4bf2-b389-4e3c-95ba-cf0d76862979" alt="bilal_abuga" height="30" width="40" /></a>
 <a href="https://medium.com/@godfreycharles30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@godfreycharles30" height="30" width="40" /></a>
 </p>
 
