@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesabuga&label=Profile%20views&color=0e75b6&style=flat" alt="charlesabuga" /> </p>
 
-<p align="left"> <a href="https://x.com/bilal_abuga" target="blank"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
+<p align="left"> <a href="https://x.com/bilal_abuga" target="blank"><img alt="X (formerly Twitter) URL" src="[https://img.shields.io/twitter/url](https://img.shields.io/twitter/url
+)">
 </a> </p>
 
 - 💬 Ask me about **react, flutter, python**
